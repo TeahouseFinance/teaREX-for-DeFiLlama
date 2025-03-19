@@ -1,6 +1,6 @@
 # Sharable raw Link 格式
 ```
-https://raw.githubusercontent.com/Owner/Repo/Branch/檔案路徑
+https://raw.githubusercontent.com/<Owner>/<Repo>/<Branch>/<檔案路徑>
 ```
 
 - `Owner`：組織或個人帳號名稱
